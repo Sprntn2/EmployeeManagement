@@ -52,6 +52,7 @@ export function EmployeeDashboard() {
             <div className="mt-1 text-sm text-slate-600">
               Infinite scrolling powered by React Query. Showing live employee
               data.
+              Version A
             </div>
           </div>
 
